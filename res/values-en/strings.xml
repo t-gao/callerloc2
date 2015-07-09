@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TN Number Location</string>
+    <string name="button_baidu">Suspicious number? Baidu it</string>
+    <string name="callerloc">Number Location:</string>
+    <string name="unknown_loc">Location unknown</string>
+    <string name="app_enabled">On</string>
+    <string name="app_disabled">Off</string>
+    <string name="select_txt_colr">Select text color</string>
+    <string name="input_to_query">Input a number to query its location</string>
+    <string name="input_number">Input a number</string>
+    <string name="refresh_calllogs">Update call logs</string>
+    <string name="refresh_calllogs_detail">Insert location info to stranger call logs</string>
+    <string name="about">About</string>
+    <string name="incoming_call">Incoming call</string>
+    <string name="outgoing_call">Calling</string>
+    <string name="connected_call">Connected</string>
+    <string name="missed_call">Missed call</string>
+    <string name="ended_call">Ended call</string>
+    <string name="rang_time">rang for %f secs</string>
+    <string name="color_name_white">White</string>
+    <string name="color_name_black">Black</string>
+    <string name="color_name_red">Red</string>
+    <string name="color_name_grey">Grey</string>
+    <string name="color_name_sky_blue">Sapphire</string>
+    <string name="color_name_grass_green">Grass green</string>
+    <string name="color_name_orange">Orange</string>
+    <string name="color_name_pink">Pink</string>
+    <string name="color_name_brown">Brown</string>
+    <string name="color_name_deep_blue">Deep blue</string>
+    <string name="color_name_bright_green">Bright green</string>
+    <string name="color_name_bright_yellow">Bright yellow</string>
+    <string name="email_label">Any question or suggestion, please email:</string>
+    <string name="author_email">"tony.gao000@gmail.com"</string>
+    <string name="app_info">This application is to show the location of the phone number for incoming or outgoing calls in a floating window, it can also insert location info into call logs. This app works only for the numbers from Mainland China.</string>
+    <string name="config_info_in">Show location in a floating window for incoming calls</string>
+    <string name="config_info_out">Show location in a floating window for outgoing calls</string>
+    <string name="init_db_wait_msg">Initializing database, this may take up to a few minutes...</string>
+    <string name="update_calllogs_wait_msg">Updating call logs, please wait...</string>
+
+    <plurals name="number_of_calllogs_updated">
+        <item quantity="zero">no call log updated!</item>
+        <item quantity="one">1 call log updated!</item>
+        <item quantity="other">%d call logs updated!</item>
+    </plurals>
+
+</resources>
